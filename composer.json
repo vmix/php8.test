@@ -1,0 +1,14 @@
+{
+    "name": "vmix/php8.test",
+    "require": {
+        "twig/twig": "^3.1",
+        "symfony/finder": "^5.2",
+        "monolog/monolog": "^2.2"
+    },
+    "authors": [
+        {
+            "name": "Viacheslav Mykhailov",
+            "email": "vyacheslav.mikhaylov@hys-enterprise.com"
+        }
+    ]
+}
